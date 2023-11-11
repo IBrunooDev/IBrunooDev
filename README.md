@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=140&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20B2AA&size=35&center=true&vCenter=true&width=1000&lines=Olá+Sou+Bruno+Henrique+Desenvolvedor+Front-End+🌐;Bem-vindo+ao+Meu+GitHub+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20B2AA&size=35&center=true&vCenter=true&width=1000&lines=Olá+Sou+Bruno+Henrique+Desenvolvedor+Front-End+💻;Bem-vindo+ao+Meu+GitHub+:%29)](https://git.io/typing-svg)
 
 <p align="center">Tenho 20 anos e estou em um emocionante processo de transição de carreira para me tornar um Desenvolvedor Front-End. Minha paixão por tecnologia e meu amor ❤️ por desafios me levam a buscar constantemente novas maneiras de aprender e crescer neste campo desafiador.</p>
 
