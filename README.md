@@ -8,7 +8,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IBrunooDev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Bruno" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBrunooDev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IBrunooDev&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IBrunooDev&bg_color=000000&color=ffffff&line=00ffd5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
  
 ## Minhas habilidades :
