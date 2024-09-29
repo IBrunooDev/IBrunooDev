@@ -18,7 +18,7 @@
 
 #### Estudando no momento :
 
-[![JS](https://skillicons.dev/icons?i=js,react,tailwind)](https://skillicons.dev)
+[![JS](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)
 
 #### Ferramentas de Trabalho :
 
