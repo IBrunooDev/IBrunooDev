@@ -4,6 +4,7 @@
 
 <p align="center">Tenho 21 anos e estou em um emocionante processo de transição de carreira para me tornar um Desenvolvedor Front-End. Minha paixão por tecnologia e meu amor ❤️ por desafios me levam a buscar constantemente novas maneiras de aprender e crescer neste campo desafiador.</p>
 
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IBrunooDev&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=00BFFF&bg_color=0d1117" alt="Bruno" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBrunooDev&layout=compact&hide_border=true&title_color=00bfbf&text_color=4169E1&bg_color=0d1117" />
