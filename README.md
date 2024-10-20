@@ -19,7 +19,7 @@
 
 #### Estudando no momento :
 
-[![JS](https://skillicons.dev/icons?i=js,git,react,)](https://skillicons.dev)
+[![Habilidades](https://skillicons.dev/icons?i=js,ts,git,github,sass,bootstrap,react,nextjs)](https://skillicons.dev)
 
 #### Ferramentas de Trabalho :
 
