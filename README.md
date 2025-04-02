@@ -14,12 +14,12 @@
  
 ## Minhas Habilidades :
 
-[![HTML-CSS](https://skillicons.dev/icons?i=html,css)](https://github.com/IBrunooDev)
+[![HTML-CSS](https://skillicons.dev/icons?i=html,css,js)](https://github.com/IBrunooDev)
 
 
 #### Estudando no momento :
 
-[![Habilidades](https://skillicons.dev/icons?i=js,ts,git,github,sass,bootstrap,react,nextjs)](https://github.com/IBrunooDev)
+[![Habilidades](https://skillicons.dev/icons?i=ts,git,github,sass,bootstrap,react,nextjs)](https://github.com/IBrunooDev)
 
 #### Ferramentas de Trabalho :
 
