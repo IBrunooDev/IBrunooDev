@@ -19,7 +19,7 @@
 
 #### Estudando no momento :
 
-[![Habilidades](https://skillicons.dev/icons?i=js,ts,git,github,sass,bootstrap,react,nextjs)](https://github.com/IBrunooDev)
+[![Habilidades](https://skillicons.dev/icons?i=js,ts,git,github,sass,bootstrap,tailwind,react,nextjs)](https://github.com/IBrunooDev)
 
 #### Ferramentas de Trabalho :
 
