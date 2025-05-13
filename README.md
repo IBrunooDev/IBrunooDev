@@ -45,10 +45,10 @@
 [👩🏻‍💻 Projeto (Portfólio) ](https://ibrunoodev.netlify.app/) 
 [🔗 Projeto (LinkTree) ](https://iibrunoodev.netlify.app/)
 
-[🚗 Projeto (Web Site Tesla) ](https://github.com/IBrunooDev/WebSite-Tesla)
-[🍕 Projeto (Web Site Pizzaria) ](https://github.com/IBrunooDev/WebSite-Pizzaria)
+[🚗 Projeto (Web Site Tesla) ](https://web-teslaa.netlify.app/)
+[🍕 Projeto (Web Site Pizzaria) ](https://web-pizzaria.netlify.app/)
 
-[💻 Projeto (Web Site DevPC) ](https://github.com/IBrunooDev/WebSite-DevPC)
+[💻 Projeto (Web Site DevPC) ](https://devpc.netlify.app/)
 </div>
 
 <!--Tag para da Espaço-->
