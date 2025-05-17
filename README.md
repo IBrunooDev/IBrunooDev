@@ -89,16 +89,5 @@
 <a href = "mailto: ibrunoodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/brunocarus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
-<!--Tag para da Espaço-->
-<br><br>
-
-
-<!--Gif Foto Tomorrowland-->
-<div align="center">
-  
-![WAxW](https://github.com/user-attachments/assets/0800a579-67b1-4cd9-be4f-88dfbc4e573d)
-  
-</div>
-
 <!--Gif Ondas-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
