@@ -11,7 +11,7 @@
 <p align="center">Tenho 22 anos e estou em um emocionante processo de transição de carreira para me tornar um Desenvolvedor Front-End. Minha paixão por tecnologia e meu amor  por desafios me levam a buscar constantemente novas maneiras de aprender e crescer neste campo desafiador.</p>
 
 <!--Tag para da Espaço-->
-<br><br>
+<br>
 
 <!--Status Tecnoligia-->
 <div align="center">  
@@ -19,7 +19,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBrunooDev&layout=compact&hide_border=true&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" />
   
 <!--Tag para da Espaço-->
-<br><br>
+<br>
 
 <!--Grafico Dos Commit-->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IBrunooDev&bg_color=000000&color=FFFFFF&line=FFFFFF&point=1E90FF&area=true&hide_border=true)](https://github.com/IBrunooDev)
