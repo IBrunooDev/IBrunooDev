@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=140&section=header"/>
 
 <!--Maquina de Escrever-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá+Sou+Bruno+Henrique+Desenvolvedor+Front-End+💻;Bem-vindo+ao+Meu+GitHub+:%29)](https://github.com/IBrunooDev)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá+Sou+Bruno+Henrique+Desenvolvedor+Front-End;Bem-vindo+ao+Meu+GitHub+:%29)](https://github.com/IBrunooDev)
 
 <!--Tag para da Espaço-->
 <br><br>
