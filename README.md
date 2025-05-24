@@ -36,7 +36,7 @@
 | 🤖 → **Onebitcode :** | Curso completo e estruturado para te transformar em um Desenvolvedor ( Full Stack ). 🟢|
 
 <!--Meus Projetos-->
-### ⚙️Meus Projetos :
+### ⚙️ - Meus Projetos :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--Tag para da Espaço-->
@@ -60,33 +60,30 @@
 </div>
 
 <!--Minhas Habilidades-->
-### ⚙️Minhas Habilidades :
+### ⚙️ - Minhas Habilidades :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![HTML-CSS](https://skillicons.dev/icons?i=html,css,js)](https://github.com/IBrunooDev)
+[![HTML-CSS-JS](https://skillicons.dev/icons?i=html,css,js)](https://github.com/IBrunooDev)
 
 <!--Estudando no momento-->
-### ⚙️Estudando no momento :
+### ⚙️ - Estudando no momento :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![Habilidades](https://skillicons.dev/icons?i=js,ts,git,github,tailwind,react,nextjs)](https://github.com/IBrunooDev)
 
 <!--Ferramentas de Trabalho-->
-### ⚙️Ferramentas de Trabalho :
+### ⚙️ - Ferramentas de Trabalho :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+[![Ferramentas de Trabalho](https://skillicons.dev/icons?i=windows,vscode,notion)](https://github.com/IBrunooDev)
 
 <!--Area de Contato-->
-### ⚙️Contatos :
+### ⚙️ - Contatos :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://www.instagram.com/IBrunoodev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto: ibrunoodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/brunocarus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ibrunoodev)
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/brunocarus/)
+[![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:ibrunoodev@gmail.com)
 
 
 <!--IMG GARA-->
