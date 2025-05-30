@@ -49,6 +49,7 @@
 [🍕 Projeto (Web Site Pizzaria) ](https://web-pizzaria.netlify.app/)
 
 [💻 Projeto (Web Site DevPC) ](https://devpc.netlify.app/)
+[💻 Projeto (Web Site SkyPage) ](https://skypagee.netlify.app/)
 </div>
 
 <!--Tag para da Espaço-->
