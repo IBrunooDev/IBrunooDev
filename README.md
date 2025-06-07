@@ -51,7 +51,7 @@
 [💻 Projeto (Web Site DevPC) ](https://devpc.netlify.app/)
 [⚙️ Projeto (Web Site SkyPage) ](https://skypagee.netlify.app/)
 
-[💕 Projeto (Web Site SkyPage) ](https://pedido-love.netlify.app/)
+[💕 Projeto (Web Site Namoro) ](https://pedido-love.netlify.app/)
 </div>
 
 <!--Tag para da Espaço-->
