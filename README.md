@@ -8,7 +8,7 @@
 <br><br>
 
 <!--Sobre Mim-->
-<p align="center">Tenho 22 anos e estou em um emocionante processo de transição de carreira para me tornar um Desenvolvedor Front-End. Minha paixão por tecnologia e meu amor  por desafios me levam a buscar constantemente novas maneiras de aprender e crescer neste campo desafiador.</p>
+<p align="center">Tenho 22 anos e estou em um emocionante processo de transição de carreira para me tornar Desenvolvedor Front-End. Minha paixão por tecnologia e meu gosto por desafios me motivam a buscar constantemente novas oportunidades de aprendizado e crescimento neste campo dinâmico e em constante evolução.</p>
 
 <!--Tag para da Espaço-->
 <br>
