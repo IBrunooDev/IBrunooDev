@@ -89,11 +89,5 @@
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:ibrunoodev@gmail.com)
 
 
-<!--IMG GARA-->
-<div align="center" > 
-  
-![Gara](https://github.com/user-attachments/assets/6e0b913b-dd69-438d-962a-79790c0deb4a)
-</div>
-
 <!--Gif Ondas-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
