@@ -1,8 +1,8 @@
 <!--Gif Ondas-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=140&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=140&section=header"/>
 
 <!--Maquina de Escrever-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=Olá+Sou+Bruno+Henrique+Desenvolvedor+Front-End;Bem-vindo+ao+Meu+GitHub+:%29)](https://github.com/IBrunooDev)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá+Sou+Bruno+Henrique+Desenvolvedor+Front-End;Bem-vindo+ao+Meu+GitHub+:%29)](https://github.com/IBrunooDev)
 
 <!--Tag para da Espaço-->
 <br><br>
@@ -15,14 +15,14 @@
 
 <!--Status Tecnoligia-->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IBrunooDev&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=1E90FF&text_color=FFFFFF&bg_color=0d1117" alt="Bruno" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IBrunooDev&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="Bruno" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBrunooDev&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
   
 <!--Tag para da Espaço-->
 <br>
 
 <!--Grafico Dos Commit-->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IBrunooDev&bg_color=000000&color=ff0000&line=ff0000&point=FFFFFF&area=true&hide_border=true)](https://github.com/IBrunooDev)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IBrunooDev&bg_color=000000&color=FFFFFF&line=FFFFFF&point=808080&area=true&hide_border=true)](https://github.com/IBrunooDev)
 </div>
 
 <!--Tag para da Espaço-->
@@ -90,4 +90,4 @@
 
 
 <!--Gif Ondas-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
