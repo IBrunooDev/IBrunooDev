@@ -1,6 +1,12 @@
 <!--Gif Ondas-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=140&section=header"/>
 
+<!--Gif Programação-->
+<img width=100% src="https://github.com/user-attachments/assets/a311f1d1-c930-4be6-85be-666a974e9293"/>
+
+<br>
+<br>
+
 <!--Maquina de Escrever-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá+Sou+Bruno+Henrique+Desenvolvedor+Front-End;Bem-vindo+ao+Meu+GitHub+:%29)](https://github.com/IBrunooDev)
 
