@@ -58,7 +58,6 @@
 [⚙️ Projeto (Web Site SkyPage) ](https://skypagee.netlify.app/)
 
 [💕 Projeto (Web Site Namoro) ](https://pedido-love.netlify.app/)
-[🐟 Projeto (Sealworld) ](https://projeto-finall.netlify.app/)
 </div>
 
 <!--Tag para da Espaço-->
