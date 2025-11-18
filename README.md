@@ -78,13 +78,13 @@
 ### ⚙️ - Estudando no momento :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Habilidades](https://skillicons.dev/icons?i=js,ts,react,)](https://github.com/IBrunooDev)
+[![Habilidades](https://skillicons.dev/icons?i=js,ts,react,git,github)](https://github.com/IBrunooDev)
 
 <!--Ferramentas de Trabalho-->
 ### ⚙️ - Ferramentas de Trabalho :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Ferramentas de Trabalho](https://skillicons.dev/icons?i=windows,vscode,notion,git,github)](https://github.com/IBrunooDev)
+[![Ferramentas de Trabalho](https://skillicons.dev/icons?i=windows,vscode,notion)](https://github.com/IBrunooDev)
 
 <!--Area de Contato-->
 ### ⚙️ - Contatos :
