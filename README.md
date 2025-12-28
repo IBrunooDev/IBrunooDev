@@ -11,7 +11,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá+Sou+Bruno+Henrique+Desenvolvedor+Front-End;Bem-vindo+ao+Meu+GitHub+:%29)](https://github.com/IBrunooDev)
 
 <!--Tag para da Espaço-->
-<br><br>
 
 <!--Sobre Mim-->
 <p align="center">Tenho 22 anos e estou em um emocionante processo de transição de carreira para me tornar Desenvolvedor Front-End. Minha paixão por tecnologia e meu gosto por desafios me motivam a buscar constantemente novas oportunidades de aprendizado e crescimento neste campo dinâmico e em constante evolução.</p>
