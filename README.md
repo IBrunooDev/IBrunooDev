@@ -50,6 +50,8 @@
 
 [💕 Projeto (Web Site Namoro) ](https://pedido-love.netlify.app/)
 [🚀 Projeto (Web Site Informatica) ](https://loja-informatica.netlify.app/)
+
+[🏎️ Projeto (Web Site Informatica) ](https://loja-bmw.netlify.app/)
 </div>
 
 <!--Tag para da Espaço-->
