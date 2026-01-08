@@ -1,9 +1,6 @@
 <!--Gif Ondas-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=140&section=header"/>
 
-<!--Gif Programação-->
-<img width=100% src="https://github.com/user-attachments/assets/a311f1d1-c930-4be6-85be-666a974e9293"/>
-
 <br>
 <br>
 
