@@ -22,41 +22,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IBrunooDev&bg_color=000000&color=FFFFFF&line=FFFFFF&point=808080&area=true&hide_border=true)](https://github.com/IBrunooDev)
 </div>
 
-<!--Tag para da Espaço-->
-<br>
-
-<!--Meus Cursos-->
-<div align="center">
-  
-| Cursos | Descrição |
-|----------|-------------|
-| 🤖 → **Onebitcode :** | Curso completo e estruturado para te transformar em um Desenvolvedor ( Full Stack ). 🟢|
-
-<!--Meus Projetos-->
-### ⚙️ - Meus Projetos :
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--Tag para da Espaço-->
-<br>
-
-[👩🏻‍💻 Projeto (Portfólio) ](https://ibrunoodev.netlify.app/) 
-[🔗 Projeto (LinkTree) ](https://iibrunoodev.netlify.app/)
-
-[🚗 Projeto (Web Site Tesla) ](https://web-teslaa.netlify.app/)
-[🍕 Projeto (Web Site Pizzaria) ](https://web-pizzaria.netlify.app/)
-
-[💻 Projeto (Web Site DevPC) ](https://devpc.netlify.app/)
-[⚙️ Projeto (Web Site SkyPage) ](https://skypagee.netlify.app/)
-
-[💕 Projeto (Web Site Namoro) ](https://pedido-love.netlify.app/)
-[🚀 Projeto (Web Site Informatica) ](https://loja-informatica.netlify.app/)
-
-[🏎️ Projeto (Web Site BMW) ](https://loja-bmw.netlify.app/)
-</div>
-
-<!--Tag para da Espaço-->
-<br>
-
 <!--Gif PNG Code-->
 <div align="center">
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b></b>
