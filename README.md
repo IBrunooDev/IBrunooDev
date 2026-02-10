@@ -1,8 +1,8 @@
 <!--Gif Ondas-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=140&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=46F527&height=140&section=header"/>
 
 <!--Maquina de Escrever-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá+Sou+Bruno+Henrique+Desenvolvedor+Front-End;Bem-vindo+ao+Meu+GitHub+:%29)](https://github.com/IBrunooDev)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=46F527&size=35&center=true&vCenter=true&width=1000&lines=Olá+Sou+Bruno+Henrique+analista+de+dados;Bem-vindo+ao+Meu+GitHub+:%29)](https://github.com/IBrunooDev)
 
 <!--Tag para da Espaço-->
 
@@ -13,13 +13,8 @@
 <br>
 
 <!--Status Tecnoligia-->
-<div align="center">  
-  
-<!--Tag para da Espaço-->
-<br>
+<div align="center">
 
-<!--Grafico Dos Commit-->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IBrunooDev&bg_color=000000&color=FFFFFF&line=FFFFFF&point=808080&area=true&hide_border=true)](https://github.com/IBrunooDev)
 </div>
 
 <!--Gif PNG Code-->
@@ -31,13 +26,17 @@
 ### ⚙️ - Minhas Habilidades :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![HTML-CSS-JS](https://skillicons.dev/icons?i=html,css,js)](https://github.com/IBrunooDev)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 <!--Estudando no momento-->
 ### ⚙️ - Estudando no momento :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Habilidades](https://skillicons.dev/icons?i=js,ts,react,git,github)](https://github.com/IBrunooDev)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <!--Ferramentas de Trabalho-->
 ### ⚙️ - Ferramentas de Trabalho :
@@ -55,4 +54,4 @@
 
 
 <!--Gif Ondas-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=46F527&height=120&section=footer"/>
