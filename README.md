@@ -7,7 +7,7 @@
 <!--Tag para da Espaço-->
 
 <!--Sobre Mim-->
-<p align="center">Tenho 23 anos e estou em um emocionante processo de transição de carreira para me tornar Desenvolvedor Front-End. Minha paixão por tecnologia e meu gosto por desafios me motivam a buscar constantemente novas oportunidades de aprendizado e crescimento neste campo dinâmico e em constante evolução.</p>
+<p align="center">Tenho 23 anos e estou em transição de carreira com foco em <strong>Análise de Dados (Estágio/Júnior)</strong>. Sou apaixonado por tecnologia, gosto de desafios e estou em constante aprendizado em <strong>Excel, Power BI, SQL, Python, Git e GitHub</strong>, buscando transformar dados em insights que apoiem a tomada de decisão e gerem valor para o negócio.</p>
 
 <!--Tag para da Espaço-->
 <br>
