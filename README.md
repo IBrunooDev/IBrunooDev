@@ -7,7 +7,7 @@
 <!--Tag para da Espaço-->
 
 <!--Sobre Mim-->
-<p align="center">Tenho 23 anos e estou em transição de carreira com foco em <strong>Front-End</strong> Sou apaixonado por tecnologia e estou em constante aprendizado em <strong>JavaScript, TypeScript, React, Git e GitHub, Figma</strong> , buscando desenvolver interfaces modernas, responsivas e com ótima experiência para o usuário. 🚀
+<p align="center">Tenho 23 anos e estou em transição de carreira com foco em <strong>Front-End</strong> Sou apaixonado por tecnologia e estou em constante aprendizado em <strong>JavaScript, TypeScript, React, Git e GitHub</strong> , buscando desenvolver interfaces modernas, responsivas e com ótima experiência para o usuário. 🚀
 </p>
 
 <!--Tag para da Espaço-->
@@ -33,7 +33,7 @@
 ### ⚙️ - Estudando no momento :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,git,github,figma)](https://github.com/IBrunooDev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,git,github)](https://github.com/IBrunooDev)
 <!--Ferramentas de Trabalho-->
 ### ⚙️ - Ferramentas de Trabalho :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
