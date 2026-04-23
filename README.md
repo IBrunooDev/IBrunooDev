@@ -7,7 +7,7 @@
 <!--Tag para da Espaço-->
 
 <!--Sobre Mim-->
-<p align="center">Tenho 23 anos e estou em transição de carreira com foco em <strong>Front-End</strong> Sou apaixonado por tecnologia e estou em constante aprendizado em <strong>JavaScript, TypeScript, React, Git e GitHub, Figma</strong>, buscando desenvolver interfaces modernas, responsivas e com ótima experiência para o usuário. 🚀
+<p align="center">Tenho 23 anos e estou em transição de carreira com foco em <strong>Front-End</strong> Sou apaixonado por tecnologia e estou em constante aprendizado em <strong>JavaScript, TypeScript, React, Git e GitHub, Figma</strong> buscando desenvolver interfaces modernas, responsivas e com ótima experiência para o usuário. 🚀
 </p>
 
 <!--Tag para da Espaço-->
