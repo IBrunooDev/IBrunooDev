@@ -129,7 +129,7 @@ Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhe
 
 <p>
     
-[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ibrunoodev)
+[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/bdev.404)
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/brunocarus/)
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:ibrunood3v@gmail.com)
 
